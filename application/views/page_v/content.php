@@ -1,0 +1,1 @@
+<?php $this->load->view("{$viewFolder}/includes/page"); ?>
